@@ -1,1 +1,4 @@
-http://localhost:8000
+Kai atsisiųsite visus failus ir tame aplanke, kur yra visi tie failai, dešiniu klavišu paspauskite mygtuką "Git Bash Here".
+Atsidariusiame lange suveskite "symfony server:start".
+Suvekite naršklėje "localhost:8000".
+Perkrovus puslapį turėtų keistis frazės, padarkite tai kelis kartus, nes kartais jos karojasi.
